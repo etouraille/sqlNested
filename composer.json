@@ -1,0 +1,26 @@
+
+{
+    "name": "etouraille/sqlNested",
+    "description": "Transform join sql result into nested array",
+    "license": "apache",
+    "authors": [
+        {
+            "name": "etouraille",
+            "email": "edouard.touraille@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "PHP": ">=7.0.0"
+    },
+    "require-dev": {
+        "atoum/atoum": "^3.0",
+        "eden/sqlite": "dev-master",
+        "nelmio/alice" : "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "sqlNested": "src/"
+        }
+    }
+}
