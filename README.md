@@ -35,7 +35,7 @@ algorythm uses id to reorder the datas
 		var_dump( $ret );
 
 `
-	
+and result is :	
 
 `
 array(1) {
