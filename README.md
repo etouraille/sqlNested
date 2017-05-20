@@ -38,32 +38,32 @@ algorythm uses id to reorder the datas
 and result is :	
 
 `
-array(1) {
-  [0]=>
-  array(4) {
-    ["id"]=>
-    string(1) "1"
-    ["title"]=>
-    string(32) "Les alliés débarquent à Paris"
-    ["articleContent"]=>
-    string(38) "La libération de la france est proche"
-    ["comments"]=>
-    array(2) {
-      [0]=>
-      array(2) {
-        ["commentContent"]=>
-        string(36) "Un joyeux bordel organisé s'annonce"
-        ["id"]=>
-        string(1) "1"
-      }
-      [1]=>
-      array(2) {
-        ["commentContent"]=>
-        string(53) "Mais que va t'il se passer ? on est un peu inquiets !"
-        ["id"]=>
-        string(1) "2"
-      }
-    }
-  }
-}
+	array(1) {
+	  [0]=>
+	  array(4) {
+	    ["id"]=>
+	    string(1) "1"
+	    ["title"]=>
+	    string(32) "Les alliés débarquent à Paris"
+	    ["articleContent"]=>
+	    string(38) "La libération de la france est proche"
+	    ["comments"]=>
+	    array(2) {
+	      [0]=>
+	      array(2) {
+	        ["commentContent"]=>
+	        string(36) "Un joyeux bordel organisé s'annonce"
+	        ["id"]=>
+	        string(1) "1"
+	      }
+	      [1]=>
+	      array(2) {
+	        ["commentContent"]=>
+	        string(53) "Mais que va t'il se passer ? on est un peu inquiets !"
+	        ["id"]=>
+	        string(1) "2"
+	      }
+	    }
+	  }
+	}
 `
